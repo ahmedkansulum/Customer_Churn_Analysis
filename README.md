@@ -59,8 +59,6 @@ The analysis uses five related Excel datasets (not included in the repo by defau
 
 ## 3. Repository Structure
 
-A suggested structure for your GitHub repo:
-
 ```text
 Customer_Churn_Analysis/
 ├─ Customer_Churn_Analysis.ipynb        # Main analysis notebook (original or updated)
