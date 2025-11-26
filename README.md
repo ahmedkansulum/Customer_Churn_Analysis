@@ -158,9 +158,7 @@ The EDA section covers:
   - Amount spent vs churn.
   - Transaction frequency vs churn.
 
-### 5.1. Example Visualisations (from `images/`)
-
-Once you run the updated notebook, several plots are saved to the `images/` folder. You can embed some key ones in your GitHub README like this:
+### 5.1. Example Visualisations 
 
 ```markdown
 #### Age Distribution of Customers
@@ -181,10 +179,6 @@ Once you run the updated notebook, several plots are saved to the `images/` fold
 #### Age vs Amount Spent by Gender
 ![Age vs Amount Spent](images/age_vs_amount_spent_by_gender.png)
 ```
-
-You can pick whichever plots you feel are most “unique” or insightful for your repo.
-
----
 
 ## 6. Feature Engineering & Preprocessing
 
