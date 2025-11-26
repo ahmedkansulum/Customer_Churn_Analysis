@@ -61,8 +61,7 @@ The analysis uses five related Excel datasets (not included in the repo by defau
 
 ```text
 Customer_Churn_Analysis/
-├─ Customer_Churn_Analysis.ipynb        # Main analysis notebook (original or updated)
-├─ Customer_Churn_Analysis_updated.ipynb# Updated notebook with image saving
+├─ Customer_Churn_Analysis.ipynb        # Main analysis notebook 
 ├─ images/                              # Auto-saved plots from the notebook
 │  ├─ age_distribution.png
 │  ├─ age_by_income_level.png
