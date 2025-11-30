@@ -165,40 +165,63 @@ The EDA section covers:
 
 Once you run the updated notebook, several plots are saved to the `images/` folder. You can embed some key ones in your GitHub README like this:
 
-```markdown
+---
+
 #### Age by Income Level
 ![Age by Income Level](images/age_by_income_level.png)
+
+---
 
 #### Age Distribution
 ![Age Distribution](images/age_distribution.png)
 
+---
+
 #### Age distribution by Churn
 ![Age distribution by Churn](images/age_distribution_by_churn_status.png)
+
+---
 
 #### Age and Income Correlation
 ![Age and Income Correlation](images/age_income_correlation.png)
 
+---
+
 #### Amount Spent by Marital Status
 ![Amount Spent by Marital Status](images/amount_spent_by_marital_status.png)
+
+---
 
 #### Customers by Income Level
 ![Customers by Income Level](images/customers_by_income_level.png)
 
+---
+
 #### Demographics Correlation Matrix 
 ![Demographics Correlation Matrix](images/demographics_correlation_matrix.png)
+
+---
 
 #### Gender Distribution
 ![Gender Distribution](images/gender_distribution.png)
 
+---
+
 #### Income level by Churn Status
 ![Income level by Churn Status](images/income_level_by_churn_status.png)
+
+---
 
 #### Spending by Product Ccategory
 ![Spending by Product Ccategory](images/spending_by_product_category.png)
 
+---
+
 #### Transaction Frequency by Churn Status
 ![Transaction Frequency by Churn Status](images/transaction_frequency_by_churn_status.png)
-```
+
+---
+
 
 You can pick whichever plots you feel are most “unique” or insightful for your repo.
 
