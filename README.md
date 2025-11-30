@@ -167,37 +167,37 @@ Once you run the updated notebook, several plots are saved to the `images/` fold
 
 ```markdown
 #### Age by Income Level
-![Age Distribution](images/age_by_income_level.png)
+![Age by Income Level](images/age_by_income_level.png)
 
 #### Age Distribution
-![Spending by Product Category](images/age_distribution.png)
+![Age Distribution](images/age_distribution.png)
 
 #### Age distribution by Churn
-![Churn by Gender](images/age_distribution_by_churn_status.png)
+![Age distribution by Churn](images/age_distribution_by_churn_status.png)
 
 #### Age and Income Correlation
-![Transaction Frequency by Churn](images/age_income_correlation.png)
+![Age and Income Correlation](images/age_income_correlation.png)
 
 #### Amount Spent by Marital Status
-![Correlation Matrix](images/amount_spent_by_marital_status.png)
+![Amount Spent by Marital Status](images/amount_spent_by_marital_status.png)
 
 #### Customers by Income Level
-![Age vs Amount Spent](images/customers_by_income_level.png)
+![Customers by Income Level](images/customers_by_income_level.png)
 
 #### Demographics Correlation Matrix 
-![Age vs Amount Spent](images/demographics_correlation_matrix.png)
+![Demographics Correlation Matrix](images/demographics_correlation_matrix.png)
 
 #### Gender Distribution
-![Age vs Amount Spent](images/gender_distribution.png)
+![Gender Distribution](images/gender_distribution.png)
 
 #### Income level by Churn Status
-![Age vs Amount Spent](images/income_level_by_churn_status.png)
+![Income level by Churn Status](images/income_level_by_churn_status.png)
 
 #### Spending by Product Ccategory
-![Age vs Amount Spent](images/spending_by_product_category.png)
+![Spending by Product Ccategory](images/spending_by_product_category.png)
 
 #### Transaction Frequency by Churn Status
-![Age vs Amount Spent](images/transaction_frequency_by_churn_status.png)
+![Transaction Frequency by Churn Status](images/transaction_frequency_by_churn_status.png)
 ```
 
 You can pick whichever plots you feel are most “unique” or insightful for your repo.
