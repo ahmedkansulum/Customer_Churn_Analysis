@@ -166,23 +166,38 @@ The EDA section covers:
 Once you run the updated notebook, several plots are saved to the `images/` folder. You can embed some key ones in your GitHub README like this:
 
 ```markdown
-#### Age Distribution of Customers
-![Age Distribution](images/age_distribution.png)
+#### Age by Income Level
+![Age Distribution](images/age_by_income_level.png)
 
-#### Spending Distribution by Product Category
-![Spending by Product Category](images/spending_by_product_category.png)
+#### Age Distribution
+![Spending by Product Category](images/age_distribution.png)
 
-#### Churn by Gender
-![Churn by Gender](images/churn_by_gender.png)
+#### Age distribution by Churn
+![Churn by Gender](images/age_distribution_by_churn_status.png)
+
+#### Age and Income Correlation
+![Transaction Frequency by Churn](images/age_income_correlation.png)
+
+#### Amount Spent by Marital Status
+![Correlation Matrix](images/amount_spent_by_marital_status.png)
+
+#### Customers by Income Level
+![Age vs Amount Spent](images/customers_by_income_level.png)
+
+#### Demographics Correlation Matrix 
+![Age vs Amount Spent](images/demographics_correlation_matrix.png)
+
+#### Gender Distribution
+![Age vs Amount Spent](images/gender_distribution.png)
+
+#### Income level by Churn Status
+![Age vs Amount Spent](images/income_level_by_churn_status.png)
+
+#### Spending by Product Ccategory
+![Age vs Amount Spent](images/spending_by_product_category.png)
 
 #### Transaction Frequency by Churn Status
-![Transaction Frequency by Churn](images/transaction_frequency_by_churn_status.png)
-
-#### Correlation Matrix (Demographics)
-![Correlation Matrix](images/demographics_correlation_matrix.png)
-
-#### Age vs Amount Spent by Gender
-![Age vs Amount Spent](images/age_vs_amount_spent_by_gender.png)
+![Age vs Amount Spent](images/transaction_frequency_by_churn_status.png)
 ```
 
 You can pick whichever plots you feel are most “unique” or insightful for your repo.
